@@ -1,0 +1,9 @@
+h1{
+    color: firebrick;
+  font-family: "Lora", serif;
+}
+.img-01{
+    width: 350px; 
+    height: 250px;
+    border-radius: 25px;
+}
